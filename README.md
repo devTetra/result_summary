@@ -27,7 +27,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./laptop.jpeg)
-![](./phone.jpg)
 
 ### Links
 
