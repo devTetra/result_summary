@@ -69,5 +69,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@devTetra](https://www.frontendmentor.io/profile/devTetra)
+- Twitter - [@tetra_codes](https://twitter.com/tetra_codes)
