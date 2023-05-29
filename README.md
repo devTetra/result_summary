@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-_UTcAkbOXF](https://www.frontendmentor.io/solutions/results-summary-component-_UTcAkbOXF)
 - Live Site URL: [https://resultssummary1.netlify.app/](https://resultssummary1.netlify.app/)
 
 ## My process
